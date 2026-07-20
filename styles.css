@@ -1,0 +1,22 @@
+@font-face{
+    font-family: 'Alphazet Light';
+    src: url('fonts/alphazet/Alphazet-Light.ttf');
+}
+@font-face {
+    font-family: 'Alphazet SemiBold';
+    src: url('fonts/alphazet/Alphazet-SemiBold.ttf');
+}
+
+body {
+    background-image: url('imgs/websiteBG.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.backgroundBlur {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+}

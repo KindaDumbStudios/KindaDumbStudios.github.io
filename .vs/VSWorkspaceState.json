@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\fonts",
+    "\\fonts\\alphazet",
+    "\\fonts\\neuropol",
+    "\\imgs"
   ],
-  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
